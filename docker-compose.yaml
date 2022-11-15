@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  work2:
+    build: work2/
+    ports:
+      - 8080:8080

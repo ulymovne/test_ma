@@ -1,0 +1,7 @@
+dockerfile
+venv
+__pycache__
+log
+.git*
+docker-compose*
+

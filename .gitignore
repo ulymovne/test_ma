@@ -1,0 +1,7 @@
+work1/virt/
+work1/test.csv
+work1/test2.csv
+work1/__pycache__/
+.idea/
+work2/__pycache__/
+work2/venv/
